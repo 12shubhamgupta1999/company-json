@@ -212,7 +212,7 @@
             "Emp_technologies" : ["java","react","html","css"],
             "Projects" : [
                 {
-                    "Project_name" : "Voting",
+                    "Project_name" : "voting_system",
                     "Project_code" : "7865465",
                     "Master_customer_code" : "234",
                     "Project_company" : "dell",
